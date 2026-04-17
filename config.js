@@ -208,7 +208,7 @@ const portfolioConfig = {
             titleAr: "مهندس تكنولوجيا المعلومات",
             company: "Bold Solution (Managed IT Services Company)",
             companyAr: "شركة Bold Solution (خدمات تقنية معلومات مُدارة)",
-            period: "Present",
+            period: "",
             periodAr: "الحالي",
             responsibilities: [
                 "Providing on-site and remote support for multiple client infrastructures.",
